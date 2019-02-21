@@ -2,3 +2,6 @@ This is for test.
 Git repository creation.
 Git management in foss lab.
 Changes are made in file.
+
+These are the updations for second commit.
+note the changes.
